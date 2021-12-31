@@ -35,16 +35,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/196) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-2. ❗️ Closed issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. ❗️ Reopened issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🗣 Commented on [#187](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/187) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+2. 🗣 Commented on [#196](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/196) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+3. ❗️ Closed issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. ❗️ Reopened issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 5. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. ❗️ Closed issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. ❗️ Opened issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. ❗️ Closed issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. ❗️ Opened issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. ❗️ Closed issue [#6](https://github.com/Luois45/DiscordShopBot/issues/6) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. ❗️ Closed issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. ❗️ Opened issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. ❗️ Closed issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. ❗️ Opened issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
 
 </details>
