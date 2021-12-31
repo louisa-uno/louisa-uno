@@ -1,4 +1,4 @@
-### Hi there, I'm Louis - aka [Louis45][website 👋 
+### Hi there, I'm Louis - aka [Louis45][website] 👋 
 
 ## I'm a young Student and Developer!!
 
