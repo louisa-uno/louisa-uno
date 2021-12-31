@@ -34,6 +34,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. ❗️ Reopened issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. ❗️ Closed issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. ❗️ Opened issue [#8](https://github.com/Luois45/DiscordShopBot/issues/8) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. ❗️ Closed issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. ❗️ Opened issue [#7](https://github.com/Luois45/DiscordShopBot/issues/7) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. ❗️ Closed issue [#6](https://github.com/Luois45/DiscordShopBot/issues/6) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. ❗️ Opened issue [#6](https://github.com/Luois45/DiscordShopBot/issues/6) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
 
 </details>
