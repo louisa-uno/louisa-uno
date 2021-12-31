@@ -57,5 +57,5 @@
 </details>
 
 [website]: https://linktree.louis45.de/
-[instagram]: https://www.instagram.com/luois_45/
-[linkedin]: https://www.linkedin.com/in/louis45/
+[instagram]: https://rebrand.ly/instagram-45
+[linkedin]: https://rebrand.ly/linkedin-45
