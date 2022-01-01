@@ -35,15 +35,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/204) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-2. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+1. 🗣 Commented on [#9](https://github.com/5x/easy-steam-free-packages/issues/9) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+2. 💪 Opened PR [#204](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/204) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 3. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-4. ❗️ Opened issue [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-5. 🗣 Commented on [#187](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/187) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-6. 🗣 Commented on [#196](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/196) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-7. ❗️ Closed issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. ❗️ Reopened issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+5. ❗️ Opened issue [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+6. 🗣 Commented on [#187](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/187) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+7. 🗣 Commented on [#196](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/196) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+8. ❗️ Closed issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. ❗️ Reopened issue [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 10. 🗣 Commented on [#5](https://github.com/Luois45/DiscordShopBot/issues/5) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
 
