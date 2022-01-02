@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis - aka [Louis45][website] 👋 
 
-## I'm a young Student and Developer!!
+## I'm a young Apprentice and Developer!!
 
 - 🔭 I just made the [DiscordShopBot](https://github.com/Luois45/DiscordShopBot) publicly available!
 - 🌱 I’m currently learning everything 🤣
