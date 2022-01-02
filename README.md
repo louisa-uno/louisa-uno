@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Luois45/DiscordShopBot/pull/16) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🎉 Merged PR [#15](https://github.com/Luois45/DiscordShopBot/pull/15) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. ❗️ Closed issue [#14](https://github.com/Luois45/DiscordShopBot/issues/14) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. ❗️ Opened issue [#14](https://github.com/Luois45/DiscordShopBot/issues/14) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. ❗️ Closed issue [#13](https://github.com/Luois45/DiscordShopBot/issues/13) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. ❗️ Opened issue [#13](https://github.com/Luois45/DiscordShopBot/issues/13) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. 🎉 Merged PR [#12](https://github.com/Luois45/DiscordShopBot/pull/12) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. 🎉 Merged PR [#11](https://github.com/Luois45/DiscordShopBot/pull/11) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. 🎉 Merged PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. ❌ Reopened PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🎉 Merged PR [#1](https://github.com/Luois45/MySQL-Proxy-Uploader/pull/1) in [Luois45/MySQL-Proxy-Uploader](https://github.com/Luois45/MySQL-Proxy-Uploader)
+2. 🎉 Merged PR [#17](https://github.com/Luois45/DiscordShopBot/pull/17) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🎉 Merged PR [#5](https://github.com/Luois45/DomainBruteforce/pull/5) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+4. 🎉 Merged PR [#4](https://github.com/Luois45/DomainBruteforce/pull/4) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+5. ❌ Closed PR [#2](https://github.com/Luois45/DomainBruteforce/pull/2) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+6. 🎉 Merged PR [#3](https://github.com/Luois45/DomainBruteforce/pull/3) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+7. 🎉 Merged PR [#1](https://github.com/Luois45/DomainBruteforce/pull/1) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+8. 🎉 Merged PR [#1](https://github.com/Luois45/Webshare-Proxy-IP-Updater/pull/1) in [Luois45/Webshare-Proxy-IP-Updater](https://github.com/Luois45/Webshare-Proxy-IP-Updater)
+9. ❗️ Closed issue [#7](https://github.com/Luois45/SkinbaronBot/issues/7) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
+10. ❗️ Opened issue [#7](https://github.com/Luois45/SkinbaronBot/issues/7) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
 <!--END_SECTION:activity-->
 
 </details>
