@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Luois45/DiscordShopBot/pull/11) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🎉 Merged PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. ❌ Reopened PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. ❌ Closed PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🗣 Commented on [#10](https://github.com/Luois45/DiscordShopBot/issues/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. ❗️ Closed issue [#9](https://github.com/Luois45/DiscordShopBot/issues/9) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. ❗️ Opened issue [#9](https://github.com/Luois45/DiscordShopBot/issues/9) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. 💪 Opened PR [#131](https://github.com/lorien/awesome-web-scraping/pull/131) in [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
-9. 💪 Opened PR [#2805](https://github.com/github/explore/pull/2805) in [github/explore](https://github.com/github/explore)
-10. 💪 Opened PR [#2804](https://github.com/github/explore/pull/2804) in [github/explore](https://github.com/github/explore)
+1. ❗️ Closed issue [#13](https://github.com/Luois45/DiscordShopBot/issues/13) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. ❗️ Opened issue [#13](https://github.com/Luois45/DiscordShopBot/issues/13) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🎉 Merged PR [#12](https://github.com/Luois45/DiscordShopBot/pull/12) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🎉 Merged PR [#11](https://github.com/Luois45/DiscordShopBot/pull/11) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🎉 Merged PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. ❌ Reopened PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. ❌ Closed PR [#10](https://github.com/Luois45/DiscordShopBot/pull/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. 🗣 Commented on [#10](https://github.com/Luois45/DiscordShopBot/issues/10) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. ❗️ Closed issue [#9](https://github.com/Luois45/DiscordShopBot/issues/9) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. ❗️ Opened issue [#9](https://github.com/Luois45/DiscordShopBot/issues/9) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
 
 </details>
