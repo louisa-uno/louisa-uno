@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/lorien/awesome-web-scraping/pull/131) in [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
-2. 💪 Opened PR [#2805](https://github.com/github/explore/pull/2805) in [github/explore](https://github.com/github/explore)
-3. 💪 Opened PR [#2804](https://github.com/github/explore/pull/2804) in [github/explore](https://github.com/github/explore)
-4. 🗣 Commented on [#2797](https://github.com/github/explore/issues/2797) in [github/explore](https://github.com/github/explore)
-5. 🗣 Commented on [#2800](https://github.com/github/explore/issues/2800) in [github/explore](https://github.com/github/explore)
-6. 💪 Opened PR [#2801](https://github.com/github/explore/pull/2801) in [github/explore](https://github.com/github/explore)
-7. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-8. ❌ Closed PR [#204](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/204) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-9. ❗️ Closed issue [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-10. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+1. ❗️ Opened issue [#9](https://github.com/Luois45/DiscordShopBot/issues/9) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 💪 Opened PR [#131](https://github.com/lorien/awesome-web-scraping/pull/131) in [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping)
+3. 💪 Opened PR [#2805](https://github.com/github/explore/pull/2805) in [github/explore](https://github.com/github/explore)
+4. 💪 Opened PR [#2804](https://github.com/github/explore/pull/2804) in [github/explore](https://github.com/github/explore)
+5. 🗣 Commented on [#2797](https://github.com/github/explore/issues/2797) in [github/explore](https://github.com/github/explore)
+6. 🗣 Commented on [#2800](https://github.com/github/explore/issues/2800) in [github/explore](https://github.com/github/explore)
+7. 💪 Opened PR [#2801](https://github.com/github/explore/pull/2801) in [github/explore](https://github.com/github/explore)
+8. 🗣 Commented on [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+9. ❌ Closed PR [#204](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/204) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+10. ❗️ Closed issue [#203](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/203) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 <!--END_SECTION:activity-->
 
 </details>
