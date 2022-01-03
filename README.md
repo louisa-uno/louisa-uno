@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Luois45/DiscordShopBot/pull/19) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🎉 Merged PR [#18](https://github.com/Luois45/DiscordShopBot/pull/18) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🎉 Merged PR [#1](https://github.com/Luois45/MySQL-Proxy-Uploader/pull/1) in [Luois45/MySQL-Proxy-Uploader](https://github.com/Luois45/MySQL-Proxy-Uploader)
-4. 🎉 Merged PR [#17](https://github.com/Luois45/DiscordShopBot/pull/17) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🎉 Merged PR [#5](https://github.com/Luois45/DomainBruteforce/pull/5) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-6. 🎉 Merged PR [#4](https://github.com/Luois45/DomainBruteforce/pull/4) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-7. ❌ Closed PR [#2](https://github.com/Luois45/DomainBruteforce/pull/2) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-8. 🎉 Merged PR [#3](https://github.com/Luois45/DomainBruteforce/pull/3) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-9. 🎉 Merged PR [#1](https://github.com/Luois45/DomainBruteforce/pull/1) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-10. 🎉 Merged PR [#1](https://github.com/Luois45/Webshare-Proxy-IP-Updater/pull/1) in [Luois45/Webshare-Proxy-IP-Updater](https://github.com/Luois45/Webshare-Proxy-IP-Updater)
+1. ❗️ Opened issue [#11](https://github.com/Luois45/DomainBruteforce/issues/11) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+2. ❗️ Closed issue [#10](https://github.com/Luois45/DomainBruteforce/issues/10) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+3. ❗️ Opened issue [#10](https://github.com/Luois45/DomainBruteforce/issues/10) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+4. ❗️ Closed issue [#9](https://github.com/Luois45/DomainBruteforce/issues/9) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+5. ❗️ Opened issue [#9](https://github.com/Luois45/DomainBruteforce/issues/9) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+6. ❗️ Closed issue [#8](https://github.com/Luois45/DomainBruteforce/issues/8) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+7. ❗️ Opened issue [#8](https://github.com/Luois45/DomainBruteforce/issues/8) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+8. ❗️ Closed issue [#7](https://github.com/Luois45/DomainBruteforce/issues/7) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+9. ❗️ Opened issue [#7](https://github.com/Luois45/DomainBruteforce/issues/7) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+10. ❗️ Closed issue [#6](https://github.com/Luois45/DomainBruteforce/issues/6) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
 <!--END_SECTION:activity-->
 
 </details>
