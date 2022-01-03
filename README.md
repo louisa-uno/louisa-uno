@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
-2. ❗️ Opened issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
-3. ❗️ Closed issue [#8](https://github.com/Luois45/SkinbaronBot/issues/8) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
-4. ❗️ Opened issue [#8](https://github.com/Luois45/SkinbaronBot/issues/8) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
-5. ❗️ Closed issue [#2](https://github.com/Luois45/MySQL-Proxy-Uploader/issues/2) in [Luois45/MySQL-Proxy-Uploader](https://github.com/Luois45/MySQL-Proxy-Uploader)
-6. ❗️ Opened issue [#2](https://github.com/Luois45/MySQL-Proxy-Uploader/issues/2) in [Luois45/MySQL-Proxy-Uploader](https://github.com/Luois45/MySQL-Proxy-Uploader)
-7. ❗️ Closed issue [#11](https://github.com/Luois45/DomainBruteforce/issues/11) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-8. ❗️ Opened issue [#11](https://github.com/Luois45/DomainBruteforce/issues/11) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-9. ❗️ Closed issue [#10](https://github.com/Luois45/DomainBruteforce/issues/10) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
-10. ❗️ Opened issue [#10](https://github.com/Luois45/DomainBruteforce/issues/10) in [Luois45/DomainBruteforce](https://github.com/Luois45/DomainBruteforce)
+1. ❗️ Closed issue [#20](https://github.com/Luois45/DiscordShopBot/issues/20) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. ❗️ Reopened issue [#20](https://github.com/Luois45/DiscordShopBot/issues/20) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#20](https://github.com/Luois45/DiscordShopBot/issues/20) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. ❗️ Closed issue [#20](https://github.com/Luois45/DiscordShopBot/issues/20) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. ❗️ Opened issue [#20](https://github.com/Luois45/DiscordShopBot/issues/20) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. ❗️ Closed issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
+7. ❗️ Opened issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
+8. ❗️ Closed issue [#8](https://github.com/Luois45/SkinbaronBot/issues/8) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
+9. ❗️ Opened issue [#8](https://github.com/Luois45/SkinbaronBot/issues/8) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
+10. ❗️ Closed issue [#2](https://github.com/Luois45/MySQL-Proxy-Uploader/issues/2) in [Luois45/MySQL-Proxy-Uploader](https://github.com/Luois45/MySQL-Proxy-Uploader)
 <!--END_SECTION:activity-->
 
 </details>
