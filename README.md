@@ -58,7 +58,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="center" alt="Louis45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=trueanuraghazra&layout=compact" />
+  <img align="center" alt="Louis45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=true&layout=compact" />
 </details>
 
 [website]: https://linktree.louis45.de/
