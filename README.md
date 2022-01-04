@@ -35,7 +35,6 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 1. ❗️ Reopened issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 2. ❗️ Closed issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
@@ -48,14 +47,16 @@
 9. ❗️ Closed issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
 10. ❗️ Opened issue [#9](https://github.com/Luois45/SkinbaronBot/issues/9) in [Luois45/SkinbaronBot](https://github.com/Luois45/SkinbaronBot)
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Luois45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true" />
+</details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="left" alt="Luois45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=trueanuraghazra&layout=compact" />
 </details>
 
 [website]: https://linktree.louis45.de/
