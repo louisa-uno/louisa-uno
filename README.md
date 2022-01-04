@@ -53,12 +53,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Louis45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true" />
+  <img align="center" alt="Louis45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Louis45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=trueanuraghazra&layout=compact" />
+  <img align="center" alt="Louis45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=trueanuraghazra&layout=compact" />
 </details>
 
 [website]: https://linktree.louis45.de/
