@@ -53,7 +53,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Louis45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true&theme=tokyonight" />
+  <img align="center" alt="Louis45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true&theme=tokyonight&show_icons=true" />
 </details>
 
 <details>
