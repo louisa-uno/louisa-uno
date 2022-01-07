@@ -38,15 +38,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2821](https://github.com/github/explore/issues/2821) in [github/explore](https://github.com/github/explore)
-2. 🗣 Commented on [#205](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/205) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-3. 🗣 Commented on [#2813](https://github.com/github/explore/issues/2813) in [github/explore](https://github.com/github/explore)
+2. 🗣 Commented on [#2821](https://github.com/github/explore/issues/2821) in [github/explore](https://github.com/github/explore)
+3. 🗣 Commented on [#205](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/205) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 4. 🗣 Commented on [#2813](https://github.com/github/explore/issues/2813) in [github/explore](https://github.com/github/explore)
 5. 🗣 Commented on [#2813](https://github.com/github/explore/issues/2813) in [github/explore](https://github.com/github/explore)
 6. 🗣 Commented on [#2813](https://github.com/github/explore/issues/2813) in [github/explore](https://github.com/github/explore)
-7. 🗣 Commented on [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. ❗️ Reopened issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. ❗️ Closed issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. 🗣 Commented on [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. 🗣 Commented on [#2813](https://github.com/github/explore/issues/2813) in [github/explore](https://github.com/github/explore)
+8. 🗣 Commented on [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. ❗️ Reopened issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. ❗️ Closed issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
   
 </details>
