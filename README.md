@@ -37,16 +37,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/5x/easy-steam-free-packages/issues/4) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
-2. ❗️ Closed issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🗣 Commented on [#2869](https://github.com/github/explore/issues/2869) in [github/explore](https://github.com/github/explore)
-4. 💪 Opened PR [#2869](https://github.com/github/explore/pull/2869) in [github/explore](https://github.com/github/explore)
-5. 💪 Opened PR [#2851](https://github.com/github/explore/pull/2851) in [github/explore](https://github.com/github/explore)
-6. ❌ Closed PR [#2850](https://github.com/github/explore/pull/2850) in [github/explore](https://github.com/github/explore)
-7. 💪 Opened PR [#2850](https://github.com/github/explore/pull/2850) in [github/explore](https://github.com/github/explore)
-8. 💪 Opened PR [#2849](https://github.com/github/explore/pull/2849) in [github/explore](https://github.com/github/explore)
-9. 💪 Opened PR [#2847](https://github.com/github/explore/pull/2847) in [github/explore](https://github.com/github/explore)
-10. 💪 Opened PR [#2846](https://github.com/github/explore/pull/2846) in [github/explore](https://github.com/github/explore)
+1. 💪 Opened PR [#13](https://github.com/5x/easy-steam-free-packages/pull/13) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+2. ❗️ Opened issue [#12](https://github.com/5x/easy-steam-free-packages/issues/12) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+3. 🗣 Commented on [#4](https://github.com/5x/easy-steam-free-packages/issues/4) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+4. ❗️ Closed issue [#21](https://github.com/Luois45/DiscordShopBot/issues/21) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🗣 Commented on [#2869](https://github.com/github/explore/issues/2869) in [github/explore](https://github.com/github/explore)
+6. 💪 Opened PR [#2869](https://github.com/github/explore/pull/2869) in [github/explore](https://github.com/github/explore)
+7. 💪 Opened PR [#2851](https://github.com/github/explore/pull/2851) in [github/explore](https://github.com/github/explore)
+8. ❌ Closed PR [#2850](https://github.com/github/explore/pull/2850) in [github/explore](https://github.com/github/explore)
+9. 💪 Opened PR [#2850](https://github.com/github/explore/pull/2850) in [github/explore](https://github.com/github/explore)
+10. 💪 Opened PR [#2849](https://github.com/github/explore/pull/2849) in [github/explore](https://github.com/github/explore)
 <!--END_SECTION:activity-->
   
 </details>
