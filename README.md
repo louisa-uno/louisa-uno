@@ -38,14 +38,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Luois45/claim-free-steam-packages/issues/4) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🎉 Merged PR [#1](https://github.com/Luois45/DNSBlocklists/pull/1) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-3. 🎉 Merged PR [#3](https://github.com/Luois45/claim-free-steam-packages/pull/3) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🎉 Merged PR [#2](https://github.com/Luois45/claim-free-steam-packages/pull/2) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. 🎉 Merged PR [#1](https://github.com/Luois45/claim-free-steam-packages/pull/1) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 💪 Opened PR [#13](https://github.com/Mikts/pbwrap/pull/13) in [Mikts/pbwrap](https://github.com/Mikts/pbwrap)
-7. 🗣 Commented on [#2877](https://github.com/github/explore/issues/2877) in [github/explore](https://github.com/github/explore)
-8. 🗣 Commented on [#13](https://github.com/5x/easy-steam-free-packages/issues/13) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+1. ❗️ Closed issue [#4](https://github.com/Luois45/claim-free-steam-packages/issues/4) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. 🎉 Merged PR [#6](https://github.com/Luois45/claim-free-steam-packages/pull/6) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 💪 Opened PR [#6](https://github.com/Luois45/claim-free-steam-packages/pull/6) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. 🗣 Commented on [#4](https://github.com/Luois45/claim-free-steam-packages/issues/4) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. 🎉 Merged PR [#1](https://github.com/Luois45/DNSBlocklists/pull/1) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+6. 🎉 Merged PR [#3](https://github.com/Luois45/claim-free-steam-packages/pull/3) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. 🎉 Merged PR [#2](https://github.com/Luois45/claim-free-steam-packages/pull/2) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+8. 🎉 Merged PR [#1](https://github.com/Luois45/claim-free-steam-packages/pull/1) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 9. ❗️ Opened issue [#12](https://github.com/5x/easy-steam-free-packages/issues/12) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
 10. 🗣 Commented on [#4](https://github.com/5x/easy-steam-free-packages/issues/4) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
 <!--END_SECTION:activity-->
