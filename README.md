@@ -39,11 +39,11 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🎉 Merged PR [#8](https://github.com/Luois45/claim-free-steam-packages/pull/8) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-3. 💪 Opened PR [#8](https://github.com/Luois45/claim-free-steam-packages/pull/8) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🎉 Merged PR [#7](https://github.com/Luois45/claim-free-steam-packages/pull/7) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. 💪 Opened PR [#7](https://github.com/Luois45/claim-free-steam-packages/pull/7) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 🎉 Merged PR [#8](https://github.com/Luois45/claim-free-steam-packages/pull/8) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. 💪 Opened PR [#8](https://github.com/Luois45/claim-free-steam-packages/pull/8) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. 🎉 Merged PR [#7](https://github.com/Luois45/claim-free-steam-packages/pull/7) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+6. 💪 Opened PR [#7](https://github.com/Luois45/claim-free-steam-packages/pull/7) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 8. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 9. 🗣 Commented on [#5](https://github.com/Luois45/claim-free-steam-packages/issues/5) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
