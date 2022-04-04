@@ -2,7 +2,7 @@
 
 ## I'm a young Apprentice and Developer!!
 
-- 🔭 I just made the [DiscordShopBot](https://github.com/Luois45/DiscordShopBot) publicly available!
+- 🔭 I just made [claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages) publicly available!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
