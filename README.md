@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/Luois45/claim-free-steam-packages/issues/38) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🗣 Commented on [#208](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/208) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-3. 🗣 Commented on [#211](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/211) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-4. 🗣 Commented on [#213](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/213) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-5. ❗️ Closed issue [#37](https://github.com/Luois45/claim-free-steam-packages/issues/37) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🗣 Commented on [#37](https://github.com/Luois45/claim-free-steam-packages/issues/37) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-7. 🗣 Commented on [#36](https://github.com/Luois45/claim-free-steam-packages/issues/36) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🗣 Commented on [#27](https://github.com/Luois45/DiscordShopBot/issues/27) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 🗣 Commented on [#38](https://github.com/Luois45/claim-free-steam-packages/issues/38) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 🗣 Commented on [#208](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/208) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+4. 🗣 Commented on [#211](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/211) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+5. 🗣 Commented on [#213](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/213) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+6. ❗️ Closed issue [#37](https://github.com/Luois45/claim-free-steam-packages/issues/37) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. 🗣 Commented on [#37](https://github.com/Luois45/claim-free-steam-packages/issues/37) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 8. 🗣 Commented on [#36](https://github.com/Luois45/claim-free-steam-packages/issues/36) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-9. 🗣 Commented on [#34](https://github.com/Luois45/claim-free-steam-packages/issues/34) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-10. 🗣 Commented on [#35](https://github.com/Luois45/claim-free-steam-packages/issues/35) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+9. 🗣 Commented on [#36](https://github.com/Luois45/claim-free-steam-packages/issues/36) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+10. 🗣 Commented on [#34](https://github.com/Luois45/claim-free-steam-packages/issues/34) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
 </details>
