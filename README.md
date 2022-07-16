@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/Luois45/claim-free-steam-packages/issues/40) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🗣 Commented on [#40](https://github.com/Luois45/claim-free-steam-packages/issues/40) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-3. 🗣 Commented on [#39](https://github.com/Luois45/claim-free-steam-packages/issues/39) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. ❗️ Closed issue [#4](https://github.com/Luois45/DNSBlocklists/issues/4) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-5. ❗️ Opened issue [#4](https://github.com/Luois45/DNSBlocklists/issues/4) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-6. ❗️ Closed issue [#3](https://github.com/Luois45/DNSBlocklists/issues/3) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-7. ❗️ Opened issue [#3](https://github.com/Luois45/DNSBlocklists/issues/3) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-8. 🗣 Commented on [#2](https://github.com/Luois45/DNSBlocklists/issues/2) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-9. 🗣 Commented on [#27](https://github.com/Luois45/DiscordShopBot/issues/27) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. 🗣 Commented on [#38](https://github.com/Luois45/claim-free-steam-packages/issues/38) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🗣 Commented on [#43](https://github.com/Luois45/claim-free-steam-packages/issues/43) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. ❗️ Closed issue [#40](https://github.com/Luois45/claim-free-steam-packages/issues/40) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 🗣 Commented on [#40](https://github.com/Luois45/claim-free-steam-packages/issues/40) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. 🗣 Commented on [#39](https://github.com/Luois45/claim-free-steam-packages/issues/39) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. ❗️ Closed issue [#4](https://github.com/Luois45/DNSBlocklists/issues/4) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+6. ❗️ Opened issue [#4](https://github.com/Luois45/DNSBlocklists/issues/4) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+7. ❗️ Closed issue [#3](https://github.com/Luois45/DNSBlocklists/issues/3) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+8. ❗️ Opened issue [#3](https://github.com/Luois45/DNSBlocklists/issues/3) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+9. 🗣 Commented on [#2](https://github.com/Luois45/DNSBlocklists/issues/2) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+10. 🗣 Commented on [#27](https://github.com/Luois45/DiscordShopBot/issues/27) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
   
 </details>
