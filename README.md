@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/Luois45/claim-free-steam-packages/issues/65) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. ❗️ Closed issue [#66](https://github.com/Luois45/claim-free-steam-packages/issues/66) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-3. ❗️ Closed issue [#64](https://github.com/Luois45/claim-free-steam-packages/issues/64) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. ❗️ Closed issue [#63](https://github.com/Luois45/claim-free-steam-packages/issues/63) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. ❗️ Closed issue [#62](https://github.com/Luois45/claim-free-steam-packages/issues/62) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. ❗️ Closed issue [#61](https://github.com/Luois45/claim-free-steam-packages/issues/61) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-7. ❗️ Closed issue [#60](https://github.com/Luois45/claim-free-steam-packages/issues/60) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-8. ❗️ Closed issue [#55](https://github.com/Luois45/claim-free-steam-packages/issues/55) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-9. 🎉 Merged PR [#58](https://github.com/Luois45/claim-free-steam-packages/pull/58) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-10. 💪 Opened PR [#58](https://github.com/Luois45/claim-free-steam-packages/pull/58) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. ❗️ Closed issue [#67](https://github.com/Luois45/claim-free-steam-packages/issues/67) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. ❗️ Closed issue [#65](https://github.com/Luois45/claim-free-steam-packages/issues/65) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. ❗️ Closed issue [#66](https://github.com/Luois45/claim-free-steam-packages/issues/66) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. ❗️ Closed issue [#64](https://github.com/Luois45/claim-free-steam-packages/issues/64) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. ❗️ Closed issue [#63](https://github.com/Luois45/claim-free-steam-packages/issues/63) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+6. ❗️ Closed issue [#62](https://github.com/Luois45/claim-free-steam-packages/issues/62) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. ❗️ Closed issue [#61](https://github.com/Luois45/claim-free-steam-packages/issues/61) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+8. ❗️ Closed issue [#60](https://github.com/Luois45/claim-free-steam-packages/issues/60) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+9. ❗️ Closed issue [#55](https://github.com/Luois45/claim-free-steam-packages/issues/55) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+10. 🎉 Merged PR [#58](https://github.com/Luois45/claim-free-steam-packages/pull/58) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
 </details>
