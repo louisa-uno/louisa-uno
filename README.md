@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#125](https://github.com/Luois45/claim-free-steam-packages/issues/125) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🗣 Commented on [#125](https://github.com/Luois45/claim-free-steam-packages/issues/125) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-3. ❗️ Closed issue [#124](https://github.com/Luois45/claim-free-steam-packages/issues/124) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🗣 Commented on [#124](https://github.com/Luois45/claim-free-steam-packages/issues/124) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. ❗️ Closed issue [#122](https://github.com/Luois45/claim-free-steam-packages/issues/122) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🗣 Commented on [#122](https://github.com/Luois45/claim-free-steam-packages/issues/122) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-7. 🗣 Commented on [#123](https://github.com/Luois45/claim-free-steam-packages/issues/123) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-8. ❗️ Closed issue [#121](https://github.com/Luois45/claim-free-steam-packages/issues/121) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-9. 🗣 Commented on [#121](https://github.com/Luois45/claim-free-steam-packages/issues/121) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-10. 🗣 Commented on [#120](https://github.com/Luois45/claim-free-steam-packages/issues/120) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🎉 Merged PR [#29](https://github.com/Luois45/DiscordShopBot/pull/29) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 🎉 Merged PR [#30](https://github.com/Luois45/DiscordShopBot/pull/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🎉 Merged PR [#31](https://github.com/Luois45/DiscordShopBot/pull/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🗣 Commented on [#31](https://github.com/Luois45/DiscordShopBot/issues/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. 🎉 Merged PR [#32](https://github.com/Luois45/DiscordShopBot/pull/32) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. 🎉 Merged PR [#33](https://github.com/Luois45/DiscordShopBot/pull/33) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. 🗣 Commented on [#32](https://github.com/Luois45/DiscordShopBot/issues/32) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
   
 </details>
