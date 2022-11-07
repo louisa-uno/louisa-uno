@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Luois45/DiscordShopBot/pull/29) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 💪 Opened PR [#219](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/219) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 2. 🎉 Merged PR [#30](https://github.com/Luois45/DiscordShopBot/pull/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 3. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 4. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
