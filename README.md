@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-2. 💪 Opened PR [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-3. 💪 Opened PR [#219](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/219) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-4. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 💪 Opened PR [#221](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/221) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+2. 🗣 Commented on [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+3. 💪 Opened PR [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
+4. 💪 Opened PR [#219](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/219) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
 5. 🎉 Merged PR [#31](https://github.com/Luois45/DiscordShopBot/pull/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 6. 🗣 Commented on [#31](https://github.com/Luois45/DiscordShopBot/issues/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 7. 🎉 Merged PR [#32](https://github.com/Luois45/DiscordShopBot/pull/32) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
