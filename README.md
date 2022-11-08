@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/221) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-2. 🗣 Commented on [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/issues/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-3. 💪 Opened PR [#220](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/220) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-4. 💪 Opened PR [#219](https://github.com/MrPowerScripts/reddit-karma-farming-bot/pull/219) in [MrPowerScripts/reddit-karma-farming-bot](https://github.com/MrPowerScripts/reddit-karma-farming-bot)
-5. 🎉 Merged PR [#31](https://github.com/Luois45/DiscordShopBot/pull/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. 🗣 Commented on [#31](https://github.com/Luois45/DiscordShopBot/issues/31) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. 🎉 Merged PR [#32](https://github.com/Luois45/DiscordShopBot/pull/32) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. 🎉 Merged PR [#33](https://github.com/Luois45/DiscordShopBot/pull/33) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. 🗣 Commented on [#30](https://github.com/Luois45/DiscordShopBot/issues/30) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. 🗣 Commented on [#32](https://github.com/Luois45/DiscordShopBot/issues/32) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🗣 Commented on [#135](https://github.com/Luois45/claim-free-steam-packages/issues/135) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. ❌ Closed PR [#128](https://github.com/Luois45/claim-free-steam-packages/pull/128) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 🗣 Commented on [#128](https://github.com/Luois45/claim-free-steam-packages/issues/128) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. ❗️ Closed issue [#126](https://github.com/Luois45/claim-free-steam-packages/issues/126) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. 🗣 Commented on [#126](https://github.com/Luois45/claim-free-steam-packages/issues/126) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+6. ❗️ Closed issue [#136](https://github.com/Luois45/claim-free-steam-packages/issues/136) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. ❗️ Closed issue [#137](https://github.com/Luois45/claim-free-steam-packages/issues/137) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+8. ❗️ Closed issue [#134](https://github.com/Luois45/claim-free-steam-packages/issues/134) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+9. ❗️ Closed issue [#133](https://github.com/Luois45/claim-free-steam-packages/issues/133) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+10. ❗️ Closed issue [#132](https://github.com/Luois45/claim-free-steam-packages/issues/132) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
 </details>
