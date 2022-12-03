@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#110](https://github.com/Luois45/claim-free-steam-packages/issues/110) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🗣 Commented on [#28](https://github.com/Luois45/DiscordShopBot/issues/28) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 2. 🗣 Commented on [#110](https://github.com/Luois45/claim-free-steam-packages/issues/110) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 3. ❗️ Closed issue [#109](https://github.com/Luois45/claim-free-steam-packages/issues/109) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 4. 🗣 Commented on [#109](https://github.com/Luois45/claim-free-steam-packages/issues/109) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
