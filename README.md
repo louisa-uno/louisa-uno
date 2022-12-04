@@ -38,8 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Luois45/DiscordShopBot/issues/28) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#110](https://github.com/Luois45/claim-free-steam-packages/issues/110) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 💪 Opened PR [#212](https://github.com/SlimeVR/SlimeVR-Tracker-ESP/pull/212) in [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)
+2. 🗣 Commented on [#28](https://github.com/Luois45/DiscordShopBot/issues/28) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 3. ❗️ Closed issue [#109](https://github.com/Luois45/claim-free-steam-packages/issues/109) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 4. 🗣 Commented on [#109](https://github.com/Luois45/claim-free-steam-packages/issues/109) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 5. ❗️ Closed issue [#163](https://github.com/Luois45/claim-free-steam-packages/issues/163) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
