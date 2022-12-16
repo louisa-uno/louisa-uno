@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/Smeltie/Hyperion/pull/18) in [Smeltie/Hyperion](https://github.com/Smeltie/Hyperion)
+1. 💪 Opened PR [#89](https://github.com/roboticsound/Pulsarr/pull/89) in [roboticsound/Pulsarr](https://github.com/roboticsound/Pulsarr)
 2. 🗣 Commented on [#170](https://github.com/Luois45/claim-free-steam-packages/issues/170) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 3. 🗣 Commented on [#170](https://github.com/Luois45/claim-free-steam-packages/issues/170) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 4. 🗣 Commented on [#170](https://github.com/Luois45/claim-free-steam-packages/issues/170) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
