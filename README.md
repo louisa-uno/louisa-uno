@@ -38,12 +38,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/Luois45/DiscordShopBot/pull/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#43](https://github.com/Luois45/DiscordShopBot/issues/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🗣 Commented on [#44](https://github.com/Luois45/DiscordShopBot/issues/44) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. 🗣 Commented on [#175](https://github.com/Luois45/claim-free-steam-packages/issues/175) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. ❗️ Closed issue [#171](https://github.com/Luois45/claim-free-steam-packages/issues/171) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🗣 Commented on [#171](https://github.com/Luois45/claim-free-steam-packages/issues/171) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. ❌ Closed PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
+2. 🎉 Merged PR [#1](https://github.com/Luois45/Minecraft-SeeThroughWater/pull/1) in [Luois45/Minecraft-SeeThroughWater](https://github.com/Luois45/Minecraft-SeeThroughWater)
+3. 🎉 Merged PR [#43](https://github.com/Luois45/DiscordShopBot/pull/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#43](https://github.com/Luois45/DiscordShopBot/issues/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🗣 Commented on [#44](https://github.com/Luois45/DiscordShopBot/issues/44) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🗣 Commented on [#175](https://github.com/Luois45/claim-free-steam-packages/issues/175) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 💪 Opened PR [#212](https://github.com/SlimeVR/SlimeVR-Tracker-ESP/pull/212) in [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)
 8. 🎉 Merged PR [#169](https://github.com/Luois45/claim-free-steam-packages/pull/169) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 9. ❗️ Closed issue [#167](https://github.com/Luois45/claim-free-steam-packages/issues/167) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
