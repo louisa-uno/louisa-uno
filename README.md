@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🗣 Commented on [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. ❗️ Closed issue [#40](https://github.com/Luois45/DiscordShopBot/issues/40) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🗣 Commented on [#40](https://github.com/Luois45/DiscordShopBot/issues/40) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. ❌ Closed PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
-7. 🎉 Merged PR [#1](https://github.com/Luois45/Minecraft-SeeThroughWater/pull/1) in [Luois45/Minecraft-SeeThroughWater](https://github.com/Luois45/Minecraft-SeeThroughWater)
-8. 🎉 Merged PR [#43](https://github.com/Luois45/DiscordShopBot/pull/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-9. 🗣 Commented on [#43](https://github.com/Luois45/DiscordShopBot/issues/43) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-10. 🗣 Commented on [#44](https://github.com/Luois45/DiscordShopBot/issues/44) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🎉 Merged PR [#45](https://github.com/Luois45/DiscordShopBot/pull/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 🗣 Commented on [#45](https://github.com/Luois45/DiscordShopBot/issues/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🎉 Merged PR [#47](https://github.com/Luois45/DiscordShopBot/pull/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#47](https://github.com/Luois45/DiscordShopBot/issues/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. ❗️ Closed issue [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🗣 Commented on [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. 🗣 Commented on [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. ❗️ Closed issue [#40](https://github.com/Luois45/DiscordShopBot/issues/40) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+9. 🗣 Commented on [#40](https://github.com/Luois45/DiscordShopBot/issues/40) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. ❌ Closed PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
 <!--END_SECTION:activity-->
   
 </details>
