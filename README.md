@@ -38,9 +38,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/Luois45/DiscordShopBot/pull/46) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#46](https://github.com/Luois45/DiscordShopBot/issues/46) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🗣 Commented on [#46](https://github.com/Luois45/DiscordShopBot/issues/46) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🗣 Commented on [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
+2. ❗️ Closed issue [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
+3. ❗️ Opened issue [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
 4. 🗣 Commented on [#46](https://github.com/Luois45/DiscordShopBot/issues/46) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 5. 🎉 Merged PR [#45](https://github.com/Luois45/DiscordShopBot/pull/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 6. 🗣 Commented on [#45](https://github.com/Luois45/DiscordShopBot/issues/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
