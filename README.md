@@ -38,12 +38,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
-2. ❗️ Closed issue [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
-3. ❗️ Opened issue [#52](https://github.com/CloudClientDev/cloudclient/issues/52) in [CloudClientDev/cloudclient](https://github.com/CloudClientDev/cloudclient)
-4. 🗣 Commented on [#46](https://github.com/Luois45/DiscordShopBot/issues/46) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🎉 Merged PR [#45](https://github.com/Luois45/DiscordShopBot/pull/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. 🗣 Commented on [#45](https://github.com/Luois45/DiscordShopBot/issues/45) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🎉 Merged PR [#49](https://github.com/Luois45/DiscordShopBot/pull/49) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 🗣 Commented on [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
+3. ❗️ Closed issue [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
+4. 🗣 Commented on [#30](https://github.com/5x/easy-steam-free-packages/issues/30) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+5. 🗣 Commented on [#177](https://github.com/Luois45/claim-free-steam-packages/issues/177) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+6. 🗣 Commented on [#178](https://github.com/Luois45/claim-free-steam-packages/issues/178) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 🎉 Merged PR [#47](https://github.com/Luois45/DiscordShopBot/pull/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 8. 🗣 Commented on [#47](https://github.com/Luois45/DiscordShopBot/issues/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 9. ❗️ Closed issue [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
