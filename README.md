@@ -38,13 +38,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Luois45/DiscordShopBot/pull/49) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
-3. ❗️ Closed issue [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
-4. 🗣 Commented on [#30](https://github.com/5x/easy-steam-free-packages/issues/30) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
-5. 🗣 Commented on [#177](https://github.com/Luois45/claim-free-steam-packages/issues/177) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🗣 Commented on [#178](https://github.com/Luois45/claim-free-steam-packages/issues/178) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-7. 🎉 Merged PR [#47](https://github.com/Luois45/DiscordShopBot/pull/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🗣 Commented on [#177](https://github.com/Luois45/claim-free-steam-packages/issues/177) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. 🎉 Merged PR [#49](https://github.com/Luois45/DiscordShopBot/pull/49) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
+4. ❗️ Closed issue [#2](https://github.com/RemiLuvle/Hellsing/issues/2) in [RemiLuvle/Hellsing](https://github.com/RemiLuvle/Hellsing)
+5. 🗣 Commented on [#30](https://github.com/5x/easy-steam-free-packages/issues/30) in [5x/easy-steam-free-packages](https://github.com/5x/easy-steam-free-packages)
+6. 🗣 Commented on [#177](https://github.com/Luois45/claim-free-steam-packages/issues/177) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. 🗣 Commented on [#178](https://github.com/Luois45/claim-free-steam-packages/issues/178) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 8. 🗣 Commented on [#47](https://github.com/Luois45/DiscordShopBot/issues/47) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 9. ❗️ Closed issue [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 10. 🗣 Commented on [#41](https://github.com/Luois45/DiscordShopBot/issues/41) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
