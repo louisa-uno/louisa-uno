@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/Luois45/claim-free-steam-packages/issues/232) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 💪 Opened PR [#4](https://github.com/KisaragiEffective/vpm_repository_index/pull/4) in [KisaragiEffective/vpm_repository_index](https://github.com/KisaragiEffective/vpm_repository_index)
 2. ❗️ Closed issue [#231](https://github.com/Luois45/claim-free-steam-packages/issues/231) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 3. ❗️ Closed issue [#230](https://github.com/Luois45/claim-free-steam-packages/issues/230) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 4. ❗️ Closed issue [#229](https://github.com/Luois45/claim-free-steam-packages/issues/229) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
