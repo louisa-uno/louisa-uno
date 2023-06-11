@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis - aka [Louis45][website] 👋 
 
-## I'm a young Apprentice and Developer!!
+## I'm a young Apprentice and Developer!
 
 - 🔭 I just made [claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages) publicly available!
 - 🌱 I’m currently learning everything 🤣
