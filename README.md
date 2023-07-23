@@ -38,8 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🔒 Closed issue [#256](https://github.com/Luois45/claim-free-steam-packages/issues/256) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🗣 Commented on [#257](https://github.com/Luois45/claim-free-steam-packages/issues/257#issuecomment-1646885207) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 3. 🔒 Closed issue [#254](https://github.com/Luois45/claim-free-steam-packages/issues/254) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 4. 🔒 Closed issue [#253](https://github.com/Luois45/claim-free-steam-packages/issues/253) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 5. 🔒 Closed issue [#252](https://github.com/Luois45/claim-free-steam-packages/issues/252) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
