@@ -38,15 +38,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/Luois45/claim-free-steam-packages/issues/257#issuecomment-1646885207) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-2. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-3. 🔒 Closed issue [#254](https://github.com/Luois45/claim-free-steam-packages/issues/254) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🔒 Closed issue [#253](https://github.com/Luois45/claim-free-steam-packages/issues/253) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. 🔒 Closed issue [#252](https://github.com/Luois45/claim-free-steam-packages/issues/252) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🔒 Closed issue [#251](https://github.com/Luois45/claim-free-steam-packages/issues/251) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-7. 🔒 Closed issue [#250](https://github.com/Luois45/claim-free-steam-packages/issues/250) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-8. 🔒 Closed issue [#249](https://github.com/Luois45/claim-free-steam-packages/issues/249) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-9. 🔒 Closed issue [#247](https://github.com/Luois45/claim-free-steam-packages/issues/247) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🎉 Merged PR [#61](https://github.com/Luois45/DiscordShopBot/pull/61) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+2. 🗣 Commented on [#51](https://github.com/Luois45/DiscordShopBot/pull/51#issuecomment-1649677359) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🎉 Merged PR [#56](https://github.com/Luois45/DiscordShopBot/pull/56) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🗣 Commented on [#56](https://github.com/Luois45/DiscordShopBot/pull/56#issuecomment-1649676685) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🎉 Merged PR [#59](https://github.com/Luois45/DiscordShopBot/pull/59) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🗣 Commented on [#59](https://github.com/Luois45/DiscordShopBot/pull/59#issuecomment-1649675639) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. 🎉 Merged PR [#60](https://github.com/Luois45/DiscordShopBot/pull/60) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. 🗣 Commented on [#257](https://github.com/Luois45/claim-free-steam-packages/issues/257#issuecomment-1646885207) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+9. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 10. 🔒 Closed issue [#248](https://github.com/Luois45/claim-free-steam-packages/issues/248) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
