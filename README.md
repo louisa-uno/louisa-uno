@@ -38,14 +38,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Luois45/DiscordShopBot/pull/61) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#51](https://github.com/Luois45/DiscordShopBot/pull/51#issuecomment-1649677359) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🎉 Merged PR [#56](https://github.com/Luois45/DiscordShopBot/pull/56) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. 🗣 Commented on [#56](https://github.com/Luois45/DiscordShopBot/pull/56#issuecomment-1649676685) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🎉 Merged PR [#59](https://github.com/Luois45/DiscordShopBot/pull/59) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. 🗣 Commented on [#59](https://github.com/Luois45/DiscordShopBot/pull/59#issuecomment-1649675639) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. 🎉 Merged PR [#60](https://github.com/Luois45/DiscordShopBot/pull/60) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-8. 🗣 Commented on [#257](https://github.com/Luois45/claim-free-steam-packages/issues/257#issuecomment-1646885207) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. ❗ Opened issue [#1](https://github.com/MiniDiscordThemes/Squared/issues/1) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
+2. 🎉 Merged PR [#61](https://github.com/Luois45/DiscordShopBot/pull/61) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#51](https://github.com/Luois45/DiscordShopBot/pull/51#issuecomment-1649677359) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🎉 Merged PR [#56](https://github.com/Luois45/DiscordShopBot/pull/56) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+5. 🗣 Commented on [#56](https://github.com/Luois45/DiscordShopBot/pull/56#issuecomment-1649676685) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🎉 Merged PR [#59](https://github.com/Luois45/DiscordShopBot/pull/59) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+7. 🗣 Commented on [#59](https://github.com/Luois45/DiscordShopBot/pull/59#issuecomment-1649675639) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. 🎉 Merged PR [#60](https://github.com/Luois45/DiscordShopBot/pull/60) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 9. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 10. 🔒 Closed issue [#248](https://github.com/Luois45/claim-free-steam-packages/issues/248) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
