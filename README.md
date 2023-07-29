@@ -39,7 +39,7 @@
   
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
-2. ❗ Opened issue [#1](https://github.com/MiniDiscordThemes/Squared/issues/1) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
+2. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
 3. 🗣 Commented on [#51](https://github.com/Luois45/DiscordShopBot/pull/51#issuecomment-1649677359) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 4. 🎉 Merged PR [#56](https://github.com/Luois45/DiscordShopBot/pull/56) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 5. 🗣 Commented on [#56](https://github.com/Luois45/DiscordShopBot/pull/56#issuecomment-1649676685) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
