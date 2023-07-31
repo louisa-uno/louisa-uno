@@ -38,12 +38,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-2. 🚀 Published release [Version 1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-3. ❗ Opened issue [#2](https://github.com/MiniDiscordThemes/Squared/issues/2) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
-4. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
+1. 🚀 Published release [v](https://github.com/Luois45/allowNsfw/releases/tag/v1.0) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
+2. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
+3. 🚀 Published release [Version 1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
+4. ❗ Opened issue [#2](https://github.com/MiniDiscordThemes/Squared/issues/2) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
 5. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
-6. 🎉 Merged PR [#59](https://github.com/Luois45/DiscordShopBot/pull/59) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+6. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
 7. 🗣 Commented on [#59](https://github.com/Luois45/DiscordShopBot/pull/59#issuecomment-1649675639) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 8. 🎉 Merged PR [#60](https://github.com/Luois45/DiscordShopBot/pull/60) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 9. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
