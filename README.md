@@ -38,14 +38,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.8.1](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8.1) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
-2. 🚀 Published release [v](https://github.com/Luois45/allowNsfw/releases/tag/v1.0) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
-3. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-4. 🚀 Published release [Version 1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-5. ❗ Opened issue [#2](https://github.com/MiniDiscordThemes/Squared/issues/2) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
-6. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
+1. 🚀 Published release [v1.0.1](https://github.com/Luois45/allowNsfw/releases/tag/v1.0.1) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
+2. 🚀 Published release [v1.2.8.1](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8.1) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
+3. 🚀 Published release [v](https://github.com/Luois45/allowNsfw/releases/tag/v1.0) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
+4. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
+5. 🚀 Published release [Version 1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
+6. ❗ Opened issue [#2](https://github.com/MiniDiscordThemes/Squared/issues/2) in [MiniDiscordThemes/Squared](https://github.com/MiniDiscordThemes/Squared)
 7. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
-8. 🎉 Merged PR [#60](https://github.com/Luois45/DiscordShopBot/pull/60) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+8. 🚀 Published release [v1.2.8](https://github.com/Luois45/Squared-smaller-embeds/releases/tag/v1.2.8) in [Luois45/Squared-smaller-embeds](https://github.com/Luois45/Squared-smaller-embeds)
 9. 🔒 Closed issue [#258](https://github.com/Luois45/claim-free-steam-packages/issues/258) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 10. 🔒 Closed issue [#248](https://github.com/Luois45/claim-free-steam-packages/issues/248) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 <!--END_SECTION:activity-->
