@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Luois45/DiscordShopBot/pull/62) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-2. 🗣 Commented on [#62](https://github.com/Luois45/DiscordShopBot/pull/62#issuecomment-1662624535) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🚀 Published release [v1.0.0](https://github.com/Luois45/beMe/releases/tag/v1.0.0) in [Luois45/beMe](https://github.com/Luois45/beMe)
-4. 🚀 Published release [v1.1.0](https://github.com/Luois45/allowNsfw/releases/tag/v1.1.0) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
-5. 🚀 Published release [1.1.0](https://github.com/Luois45/allowNsfw/releases/tag/v1.1) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
+1. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-menu/pull/1) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+2. 🎉 Merged PR [#62](https://github.com/Luois45/DiscordShopBot/pull/62) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+3. 🗣 Commented on [#62](https://github.com/Luois45/DiscordShopBot/pull/62#issuecomment-1662624535) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+4. 🚀 Published release [v1.0.0](https://github.com/Luois45/beMe/releases/tag/v1.0.0) in [Luois45/beMe](https://github.com/Luois45/beMe)
+5. 🚀 Published release [v1.1.0](https://github.com/Luois45/allowNsfw/releases/tag/v1.1.0) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
 6. 🚀 Published release [v1.0.2](https://github.com/Luois45/allowNsfw/releases/tag/v1.0.2) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
 7. 🚀 Published release [v1.0.1](https://github.com/Luois45/allowNsfw/releases/tag/v1.0.1) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
 8. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
