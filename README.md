@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.0) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-2. 🎉 Merged PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-3. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-4. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-menu/pull/1) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-5. 🎉 Merged PR [#62](https://github.com/Luois45/DiscordShopBot/pull/62) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-6. 🗣 Commented on [#62](https://github.com/Luois45/DiscordShopBot/pull/62#issuecomment-1662624535) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. 🚀 Published release [v1.0.1](https://github.com/Luois45/allowNsfw/releases/tag/v1.0.1) in [Luois45/allowNsfw](https://github.com/Luois45/allowNsfw)
-8. 🚀 Published release [v1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-9. 🚀 Published release [Version 1.0](https://github.com/Luois45/replugged-allowNsfw/releases/tag/v1.0) in [Luois45/replugged-allowNsfw](https://github.com/Luois45/replugged-allowNsfw)
-10. 🔒 Closed issue [#248](https://github.com/Luois45/claim-free-steam-packages/issues/248) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🚀 Published release [Version 1.0.1](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.1) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+2. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.0) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+3. 🎉 Merged PR [#3](https://github.com/golummodz/G-mod-menu/pull/3) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+4. 💪 Opened PR [#3](https://github.com/golummodz/G-mod-menu/pull/3) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+5. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.0) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+6. 🎉 Merged PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+7. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+8. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-menu/pull/1) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+9. 🎉 Merged PR [#62](https://github.com/Luois45/DiscordShopBot/pull/62) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+10. 🗣 Commented on [#62](https://github.com/Luois45/DiscordShopBot/pull/62#issuecomment-1662624535) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 <!--END_SECTION:activity-->
   
 </details>
