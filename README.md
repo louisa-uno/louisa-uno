@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-2. ❗ Opened issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-3. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-injector/releases/tag/v1.0.0) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-4. 🎉 Merged PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-5. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-6. 🎉 Merged PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-7. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-8. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.0) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-9. 🎉 Merged PR [#3](https://github.com/golummodz/G-mod-menu/pull/3) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-10. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+1. 🔒 Closed issue [#6](https://github.com/Luois45/SkinbaronBot_v2/issues/6) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+2. ❗ Opened issue [#6](https://github.com/Luois45/SkinbaronBot_v2/issues/6) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+3. ❌ Closed PR [#1](https://github.com/Luois45/SkinbaronBot_v2/pull/1) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+4. ❌ Closed PR [#3](https://github.com/Luois45/SkinbaronBot_v2/pull/3) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+5. ❌ Closed PR [#5](https://github.com/Luois45/SkinbaronBot_v2/pull/5) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+6. 🔒 Closed issue [#4](https://github.com/Luois45/SkinbaronBot_v2/issues/4) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+7. ❗ Opened issue [#4](https://github.com/Luois45/SkinbaronBot_v2/issues/4) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+8. 🔒 Closed issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+9. ❗ Opened issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+10. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-injector/releases/tag/v1.0.0) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
 <!--END_SECTION:activity-->
   
 </details>
