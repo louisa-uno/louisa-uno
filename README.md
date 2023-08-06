@@ -38,13 +38,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-injector/releases/tag/v1.0.0) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-2. 🎉 Merged PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-3. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-4. 🎉 Merged PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-5. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
-6. 💪 Opened PR [#4](https://github.com/golummodz/G-mod-menu/pull/4) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
-7. 🚀 Published release [Version 1.0.1](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.1) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
+1. 🔒 Closed issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+2. ❗ Opened issue [#2](https://github.com/Luois45/SkinbaronBot_v2/issues/2) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+3. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-injector/releases/tag/v1.0.0) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
+4. 🎉 Merged PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
+5. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-injector/pull/2) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
+6. 🎉 Merged PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
+7. 💪 Opened PR [#1](https://github.com/golummodz/G-mod-injector/pull/1) in [golummodz/G-mod-injector](https://github.com/golummodz/G-mod-injector)
 8. 🚀 Published release [Version 1.0](https://github.com/golummodz/G-mod-menu/releases/tag/v1.0.0) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
 9. 🎉 Merged PR [#3](https://github.com/golummodz/G-mod-menu/pull/3) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
 10. 💪 Opened PR [#2](https://github.com/golummodz/G-mod-menu/pull/2) in [golummodz/G-mod-menu](https://github.com/golummodz/G-mod-menu)
