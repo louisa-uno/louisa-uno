@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-2. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-3. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-4. 🔒 Closed issue [#10](https://github.com/Luois45/SkinbaronBot_v2/issues/10) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-5. ❗ Opened issue [#10](https://github.com/Luois45/SkinbaronBot_v2/issues/10) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-6. 🔒 Closed issue [#9](https://github.com/Luois45/SkinbaronBot_v2/issues/9) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-7. ❗ Opened issue [#9](https://github.com/Luois45/SkinbaronBot_v2/issues/9) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-8. 🔒 Closed issue [#8](https://github.com/Luois45/SkinbaronBot_v2/issues/8) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-9. ❗ Opened issue [#8](https://github.com/Luois45/SkinbaronBot_v2/issues/8) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-10. 🔒 Closed issue [#7](https://github.com/Luois45/SkinbaronBot_v2/issues/7) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+1. 💪 Opened PR [#12](https://github.com/Luois45/SkinbaronBot_v2/pull/12) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+2. 🎉 Merged PR [#11](https://github.com/Luois45/SkinbaronBot_v2/pull/11) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+3. 💪 Opened PR [#11](https://github.com/Luois45/SkinbaronBot_v2/pull/11) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+4. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+5. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+6. 🚀 Published release [Version 1.0](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+7. 🔒 Closed issue [#10](https://github.com/Luois45/SkinbaronBot_v2/issues/10) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+8. ❗ Opened issue [#10](https://github.com/Luois45/SkinbaronBot_v2/issues/10) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+9. 🔒 Closed issue [#9](https://github.com/Luois45/SkinbaronBot_v2/issues/9) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+10. ❗ Opened issue [#9](https://github.com/Luois45/SkinbaronBot_v2/issues/9) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 <!--END_SECTION:activity-->
   
 </details>
