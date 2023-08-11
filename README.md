@@ -38,16 +38,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.2](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.2.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-2. 🎉 Merged PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-3. 💪 Opened PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-4. 🗣 Commented on [#259](https://github.com/Luois45/claim-free-steam-packages/pull/259#issuecomment-1671017156) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. 🎉 Merged PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-6. 💪 Opened PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-7. 🎉 Merged PR [#15](https://github.com/Luois45/SkinbaronBot_v2/pull/15) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-8. 💪 Opened PR [#15](https://github.com/Luois45/SkinbaronBot_v2/pull/15) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-9. 🎉 Merged PR [#14](https://github.com/Luois45/SkinbaronBot_v2/pull/14) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-10. 💪 Opened PR [#14](https://github.com/Luois45/SkinbaronBot_v2/pull/14) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+1. 🗣 Commented on [#262](https://github.com/Luois45/claim-free-steam-packages/pull/262#issuecomment-1674486562) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+2. 🗣 Commented on [#260](https://github.com/Luois45/claim-free-steam-packages/pull/260#issuecomment-1674485784) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+3. 🚀 Published release [Version 1.2](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.2.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+4. 🎉 Merged PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+5. 💪 Opened PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+6. 🗣 Commented on [#259](https://github.com/Luois45/claim-free-steam-packages/pull/259#issuecomment-1671017156) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+7. 🎉 Merged PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+8. 💪 Opened PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+9. 🎉 Merged PR [#15](https://github.com/Luois45/SkinbaronBot_v2/pull/15) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+10. 💪 Opened PR [#15](https://github.com/Luois45/SkinbaronBot_v2/pull/15) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 <!--END_SECTION:activity-->
   
 </details>
