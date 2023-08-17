@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/Luois45/claim-free-steam-packages/pull/262#issuecomment-1674486562) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🎉 Merged PR [#64](https://github.com/Luois45/DiscordShopBot/pull/64) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 2. 🗣 Commented on [#260](https://github.com/Luois45/claim-free-steam-packages/pull/260#issuecomment-1674485784) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 3. 🚀 Published release [Version 1.2](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.2.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 4. 🎉 Merged PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
