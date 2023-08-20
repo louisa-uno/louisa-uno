@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#628](https://github.com/vrcx-team/VRCX/pull/628) in [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX)
-2. 🎉 Merged PR [#64](https://github.com/Luois45/DiscordShopBot/pull/64) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-3. 🚀 Published release [Version 1.2](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.2.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-4. 🎉 Merged PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+1. ❌ Closed PR [#628](https://github.com/vrcx-team/VRCX/pull/628) in [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX)
+2. 🗣 Commented on [#628](https://github.com/vrcx-team/VRCX/pull/628#issuecomment-1685294318) in [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX)
+3. 💪 Opened PR [#628](https://github.com/vrcx-team/VRCX/pull/628) in [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX)
+4. 🎉 Merged PR [#64](https://github.com/Luois45/DiscordShopBot/pull/64) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 5. 💪 Opened PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 6. 🗣 Commented on [#259](https://github.com/Luois45/claim-free-steam-packages/pull/259#issuecomment-1671017156) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 🎉 Merged PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
