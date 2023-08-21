@@ -10,8 +10,6 @@
 ### Connect with me:
 
 [<img align="left" alt="linktree.louis45.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Louis45 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Louis45 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -67,5 +65,3 @@
 </details>
 
 [website]: https://linktree.louis45.de/
-[instagram]: https://rebrand.ly/instagram-45
-[linkedin]: https://rebrand.ly/linkedin-45
