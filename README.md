@@ -36,10 +36,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
-2. ❌ Reopened PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
-3. 🗣 Commented on [#264](https://github.com/Luois45/claim-free-steam-packages/pull/264#issuecomment-1721723034) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🎉 Merged PR [#64](https://github.com/Luois45/DiscordShopBot/pull/64) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🗣 Commented on [#7](https://github.com/FACS01-01/FACS_Utilities/issues/7#issuecomment-1722288288) in [FACS01-01/FACS_Utilities](https://github.com/FACS01-01/FACS_Utilities)
+2. 🎉 Merged PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
+3. ❌ Reopened PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
+4. 🗣 Commented on [#264](https://github.com/Luois45/claim-free-steam-packages/pull/264#issuecomment-1721723034) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 5. 💪 Opened PR [#17](https://github.com/Luois45/SkinbaronBot_v2/pull/17) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 6. 🗣 Commented on [#259](https://github.com/Luois45/claim-free-steam-packages/pull/259#issuecomment-1671017156) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 🎉 Merged PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
