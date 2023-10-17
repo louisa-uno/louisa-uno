@@ -36,7 +36,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/FACS01-01/FACS_Utilities/issues/7#issuecomment-1723698072) in [FACS01-01/FACS_Utilities](https://github.com/FACS01-01/FACS_Utilities)
+1. 💪 Opened PR [#19](https://github.com/Luois45/SkinbaronBot_v2/pull/19) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 2. 🗣 Commented on [#7](https://github.com/FACS01-01/FACS_Utilities/issues/7#issuecomment-1722288288) in [FACS01-01/FACS_Utilities](https://github.com/FACS01-01/FACS_Utilities)
 3. 🎉 Merged PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
 4. ❌ Reopened PR [#1](https://github.com/Luois45/Linktree/pull/1) in [Luois45/Linktree](https://github.com/Luois45/Linktree)
