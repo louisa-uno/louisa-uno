@@ -36,11 +36,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.3](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.3.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-2. 🗣 Commented on [#18](https://github.com/Luois45/SkinbaronBot_v2/issues/18#issuecomment-1766839351) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-3. 🎉 Merged PR [#19](https://github.com/Luois45/SkinbaronBot_v2/pull/19) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-4. 💪 Opened PR [#19](https://github.com/Luois45/SkinbaronBot_v2/pull/19) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
-5. 🗣 Commented on [#264](https://github.com/Luois45/claim-free-steam-packages/pull/264#issuecomment-1721723034) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+1. 🚀 Published release [Version 1.1](https://github.com/Luois45/RipperStoreScripts/releases/tag/v1.1.0) in [Luois45/RipperStoreScripts](https://github.com/Luois45/RipperStoreScripts)
+2. 🚀 Published release [Version 1.3](https://github.com/Luois45/SkinbaronBot_v2/releases/tag/v1.3.0) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+3. 🗣 Commented on [#18](https://github.com/Luois45/SkinbaronBot_v2/issues/18#issuecomment-1766839351) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+4. 🎉 Merged PR [#19](https://github.com/Luois45/SkinbaronBot_v2/pull/19) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
+5. 💪 Opened PR [#19](https://github.com/Luois45/SkinbaronBot_v2/pull/19) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 6. 🗣 Commented on [#259](https://github.com/Luois45/claim-free-steam-packages/pull/259#issuecomment-1671017156) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 7. 🎉 Merged PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
 8. 💪 Opened PR [#16](https://github.com/Luois45/SkinbaronBot_v2/pull/16) in [Luois45/SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2)
