@@ -5,7 +5,7 @@
 - 🔭 I just made [SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2) publicly available!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
