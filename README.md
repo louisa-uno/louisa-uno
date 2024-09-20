@@ -30,11 +30,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/CoderxMax/Dll-Injector-EAC-BAC-VANGUARD/issues/1) in [CoderxMax/Dll-Injector-EAC-BAC-VANGUARD](https://github.com/CoderxMax/Dll-Injector-EAC-BAC-VANGUARD)
-2. 🔒 Closed issue [#1](https://github.com/Luois45/roblox-fishing-simulator-bot/issues/1) in [Luois45/roblox-fishing-simulator-bot](https://github.com/Luois45/roblox-fishing-simulator-bot)
-3. 🎉 Merged PR [#65](https://github.com/Luois45/DiscordShopBot/pull/65) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-4. 🎉 Merged PR [#69](https://github.com/Luois45/DiscordShopBot/pull/69) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-5. 🗣 Commented on [#67](https://github.com/Luois45/DiscordShopBot/issues/67#issuecomment-1792399232) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🎉 Merged PR [#5](https://github.com/Luois45/DNSBlocklists/pull/5) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+2. 💪 Opened PR [#5](https://github.com/Luois45/DNSBlocklists/pull/5) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
+3. 🎉 Merged PR [#299](https://github.com/Luois45/claim-free-steam-packages/pull/299) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+4. 🎉 Merged PR [#296](https://github.com/Luois45/claim-free-steam-packages/pull/296) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
+5. 💪 Opened PR [#356](https://github.com/Luois45/claim-free-steam-packages/pull/356) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
 6. 🔒 Closed issue [#67](https://github.com/Luois45/DiscordShopBot/issues/67) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
 7. 🗣 Commented on [#1](https://github.com/Luois45/roblox-starving-artists-bot/pull/1#issuecomment-1792394766) in [Luois45/roblox-starving-artists-bot](https://github.com/Luois45/roblox-starving-artists-bot)
 8. 🗣 Commented on [#1](https://github.com/Luois45/VRC-OSCStuff/pull/1#issuecomment-1792392447) in [Luois45/VRC-OSCStuff](https://github.com/Luois45/VRC-OSCStuff)
