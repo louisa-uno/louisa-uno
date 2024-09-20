@@ -1,15 +1,9 @@
-### Hi there, I'm Louis - aka [Louis45][website] 👋 
+ ### Hi there, I'm Louísa - aka [louisa.uno][website] 👋
 
-## I'm a young Developer!
-
-- 🔭 I just made [SkinbaronBot_v2](https://github.com/Luois45/SkinbaronBot_v2) publicly available!
+- 🔭 I just made [SkinbaronBot_v2](https://github.com/louisa-uno/SkinbaronBot_v2) publicly available!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-[<img align="left" alt="linktree.louis45.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -52,16 +46,16 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <a href="https://github.com/Luois45?tab=repositories">
-    <img align="center" alt="Louis45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luois45&count_private=true&theme=tokyonight&show_icons=true" />
+  <a href="https://github.com/louisa-uno?tab=repositories">
+    <img align="center" alt="Louísa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=louisa-uno&count_private=true&theme=tokyonight&show_icons=true" />
   </a>
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <a href="https://github.com/Luois45?tab=repositories">
-    <img align="center" alt="Louis45's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luois45&count_private=true&theme=tokyonight&layout=compact" />
+  <a href="https://github.com/louisa-uno?tab=repositories">
+    <img align="center" alt="Louísa's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louisa-uno&count_private=true&theme=tokyonight&layout=compact" />
   </a>
 </details>
 
-[website]: https://linktree.louis45.de/
+[website]: https://louísa.com
