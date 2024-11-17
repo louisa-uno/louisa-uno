@@ -30,16 +30,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Luois45/DNSBlocklists/pull/5) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-2. 💪 Opened PR [#5](https://github.com/Luois45/DNSBlocklists/pull/5) in [Luois45/DNSBlocklists](https://github.com/Luois45/DNSBlocklists)
-3. 🎉 Merged PR [#299](https://github.com/Luois45/claim-free-steam-packages/pull/299) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-4. 🎉 Merged PR [#296](https://github.com/Luois45/claim-free-steam-packages/pull/296) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-5. 💪 Opened PR [#356](https://github.com/Luois45/claim-free-steam-packages/pull/356) in [Luois45/claim-free-steam-packages](https://github.com/Luois45/claim-free-steam-packages)
-6. 🔒 Closed issue [#67](https://github.com/Luois45/DiscordShopBot/issues/67) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
-7. 🗣 Commented on [#1](https://github.com/Luois45/roblox-starving-artists-bot/pull/1#issuecomment-1792394766) in [Luois45/roblox-starving-artists-bot](https://github.com/Luois45/roblox-starving-artists-bot)
-8. 🗣 Commented on [#1](https://github.com/Luois45/VRC-OSCStuff/pull/1#issuecomment-1792392447) in [Luois45/VRC-OSCStuff](https://github.com/Luois45/VRC-OSCStuff)
-9. 🗣 Commented on [#4](https://github.com/timagr615/dmarket_bot/issues/4#issuecomment-1792390459) in [timagr615/dmarket_bot](https://github.com/timagr615/dmarket_bot)
-10. 🎉 Merged PR [#70](https://github.com/Luois45/DiscordShopBot/pull/70) in [Luois45/DiscordShopBot](https://github.com/Luois45/DiscordShopBot)
+1. 🔒 Closed issue [#451](https://github.com/louisa-uno/claim-free-steam-packages/issues/451) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+2. 🔒 Closed issue [#450](https://github.com/louisa-uno/claim-free-steam-packages/issues/450) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+3. 🔒 Closed issue [#449](https://github.com/louisa-uno/claim-free-steam-packages/issues/449) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+4. 🔒 Closed issue [#448](https://github.com/louisa-uno/claim-free-steam-packages/issues/448) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+5. 🔒 Closed issue [#447](https://github.com/louisa-uno/claim-free-steam-packages/issues/447) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+6. 🔒 Closed issue [#446](https://github.com/louisa-uno/claim-free-steam-packages/issues/446) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+7. 🔒 Closed issue [#445](https://github.com/louisa-uno/claim-free-steam-packages/issues/445) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+8. 🔒 Closed issue [#444](https://github.com/louisa-uno/claim-free-steam-packages/issues/444) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+9. 🔒 Closed issue [#443](https://github.com/louisa-uno/claim-free-steam-packages/issues/443) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+10. 🔒 Closed issue [#437](https://github.com/louisa-uno/claim-free-steam-packages/issues/437) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
 </details>
