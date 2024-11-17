@@ -30,16 +30,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#451](https://github.com/louisa-uno/claim-free-steam-packages/issues/451) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-2. 🔒 Closed issue [#450](https://github.com/louisa-uno/claim-free-steam-packages/issues/450) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-3. 🔒 Closed issue [#449](https://github.com/louisa-uno/claim-free-steam-packages/issues/449) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-4. 🔒 Closed issue [#448](https://github.com/louisa-uno/claim-free-steam-packages/issues/448) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-5. 🔒 Closed issue [#447](https://github.com/louisa-uno/claim-free-steam-packages/issues/447) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-6. 🔒 Closed issue [#446](https://github.com/louisa-uno/claim-free-steam-packages/issues/446) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-7. 🔒 Closed issue [#445](https://github.com/louisa-uno/claim-free-steam-packages/issues/445) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-8. 🔒 Closed issue [#444](https://github.com/louisa-uno/claim-free-steam-packages/issues/444) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-9. 🔒 Closed issue [#443](https://github.com/louisa-uno/claim-free-steam-packages/issues/443) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-10. 🔒 Closed issue [#437](https://github.com/louisa-uno/claim-free-steam-packages/issues/437) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+1. 🔒 Closed issue [#257](https://github.com/louisa-uno/claim-free-steam-packages/issues/257) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+2. 🔒 Closed issue [#306](https://github.com/louisa-uno/claim-free-steam-packages/issues/306) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+3. 🔒 Closed issue [#307](https://github.com/louisa-uno/claim-free-steam-packages/issues/307) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+4. 🔒 Closed issue [#305](https://github.com/louisa-uno/claim-free-steam-packages/issues/305) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+5. 🔒 Closed issue [#304](https://github.com/louisa-uno/claim-free-steam-packages/issues/304) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+6. 🔒 Closed issue [#331](https://github.com/louisa-uno/claim-free-steam-packages/issues/331) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+7. 🔒 Closed issue [#332](https://github.com/louisa-uno/claim-free-steam-packages/issues/332) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+8. 🔒 Closed issue [#327](https://github.com/louisa-uno/claim-free-steam-packages/issues/327) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+9. 🔒 Closed issue [#330](https://github.com/louisa-uno/claim-free-steam-packages/issues/330) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+10. 🔒 Closed issue [#329](https://github.com/louisa-uno/claim-free-steam-packages/issues/329) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
 <!--END_SECTION:activity-->
   
 </details>
