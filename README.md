@@ -30,10 +30,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#301](https://github.com/louisa-uno/claim-free-steam-packages/issues/301#issuecomment-2481602954) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-2. 🔒 Closed issue [#301](https://github.com/louisa-uno/claim-free-steam-packages/issues/301) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-3. 🔒 Closed issue [#257](https://github.com/louisa-uno/claim-free-steam-packages/issues/257) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
-4. 🔒 Closed issue [#306](https://github.com/louisa-uno/claim-free-steam-packages/issues/306) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
+1. 🎉 Merged PR [#1](https://github.com/louisa-uno/wiki/pull/1) in [louisa-uno/wiki](https://github.com/louisa-uno/wiki)
+2. 🗣 Commented on [#4](https://github.com/louisa-uno/VRCSDK-Patcher/issues/4#issuecomment-2727077422) in [louisa-uno/VRCSDK-Patcher](https://github.com/louisa-uno/VRCSDK-Patcher)
+3. 🔒 Closed issue [#4](https://github.com/louisa-uno/VRCSDK-Patcher/issues/4) in [louisa-uno/VRCSDK-Patcher](https://github.com/louisa-uno/VRCSDK-Patcher)
+4. 🎉 Merged PR [#2](https://github.com/louisa-uno/VRChat-IP-Grabber/pull/2) in [louisa-uno/VRChat-IP-Grabber](https://github.com/louisa-uno/VRChat-IP-Grabber)
 5. 🔒 Closed issue [#307](https://github.com/louisa-uno/claim-free-steam-packages/issues/307) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
 6. 🔒 Closed issue [#305](https://github.com/louisa-uno/claim-free-steam-packages/issues/305) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
 7. 🔒 Closed issue [#304](https://github.com/louisa-uno/claim-free-steam-packages/issues/304) in [louisa-uno/claim-free-steam-packages](https://github.com/louisa-uno/claim-free-steam-packages)
