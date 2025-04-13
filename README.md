@@ -1,9 +1,6 @@
  ### Hi there, I'm Louísa - aka [louisa.uno][website] 👋
 
 - 🔭 I just made [SkinbaronBot_v2](https://github.com/louisa-uno/SkinbaronBot_v2) publicly available!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <br />
 
