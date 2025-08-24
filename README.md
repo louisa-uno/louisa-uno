@@ -27,7 +27,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/louisa-uno/wiki/pull/1) in [louisa-uno/wiki](https://github.com/louisa-uno/wiki)
+1. ❗ Opened issue [#1](https://github.com/lmcnulty/gender-voice-visualization/issues/1) in [lmcnulty/gender-voice-visualization](https://github.com/lmcnulty/gender-voice-visualization)
 2. 🗣 Commented on [#4](https://github.com/louisa-uno/VRCSDK-Patcher/issues/4#issuecomment-2727077422) in [louisa-uno/VRCSDK-Patcher](https://github.com/louisa-uno/VRCSDK-Patcher)
 3. 🔒 Closed issue [#4](https://github.com/louisa-uno/VRCSDK-Patcher/issues/4) in [louisa-uno/VRCSDK-Patcher](https://github.com/louisa-uno/VRCSDK-Patcher)
 4. 🎉 Merged PR [#2](https://github.com/louisa-uno/VRChat-IP-Grabber/pull/2) in [louisa-uno/VRChat-IP-Grabber](https://github.com/louisa-uno/VRChat-IP-Grabber)
