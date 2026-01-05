@@ -27,8 +27,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2214](https://github.com/jackyzha0/quartz/issues/2214) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
-2. ❗ Opened issue [#2214](https://github.com/jackyzha0/quartz/issues/2214) in [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+1. ℹ️ Labeled issue [#786](https://github.com/poppingmoon/aria/issues/786) in [poppingmoon/aria](https://github.com/poppingmoon/aria)
+2. ❗ Opened issue [#786](https://github.com/poppingmoon/aria/issues/786) in [poppingmoon/aria](https://github.com/poppingmoon/aria)
 3. 🗣 Commented on [#1](https://github.com/louisa-uno/div-events/pull/1#issuecomment-3238371874) in [louisa-uno/div-events](https://github.com/louisa-uno/div-events)
 4. 🗣 Commented on [#1](https://github.com/louisa-uno/div-events/pull/1#issuecomment-3238371639) in [louisa-uno/div-events](https://github.com/louisa-uno/div-events)
 5. ❗ Opened issue [#1](https://github.com/lmcnulty/gender-voice-visualization/issues/1) in [lmcnulty/gender-voice-visualization](https://github.com/lmcnulty/gender-voice-visualization)
