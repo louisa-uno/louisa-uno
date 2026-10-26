@@ -27,8 +27,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/kingchddg901/Vacuum_Agent/pull/76) in [kingchddg901/Vacuum_Agent](https://github.com/kingchddg901/Vacuum_Agent)
-2. ❌ Closed PR [#4](https://github.com/louisa-uno/Linktree/pull/4) in [louisa-uno/Linktree](https://github.com/louisa-uno/Linktree)
+1. 🎉 Merged PR [#76](https://github.com/kingchddg901/Vacuum_Agent/pull/76) in [kingchddg901/Vacuum_Agent](https://github.com/kingchddg901/Vacuum_Agent)
+2. 💪 Opened PR [#76](https://github.com/kingchddg901/Vacuum_Agent/pull/76) in [kingchddg901/Vacuum_Agent](https://github.com/kingchddg901/Vacuum_Agent)
 3. ❌ Closed PR [#3](https://github.com/louisa-uno/Linktree/pull/3) in [louisa-uno/Linktree](https://github.com/louisa-uno/Linktree)
 4. 🗣 Commented on [#1](https://github.com/louisa-uno/div-events/pull/1#issuecomment-3238371639) in [louisa-uno/div-events](https://github.com/louisa-uno/div-events)
 5. ❗ Opened issue [#1](https://github.com/lmcnulty/gender-voice-visualization/issues/1) in [lmcnulty/gender-voice-visualization](https://github.com/lmcnulty/gender-voice-visualization)
